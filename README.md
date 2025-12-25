@@ -35,7 +35,20 @@ This is a console-based Inventory Management System developed in C as part of a 
 
 ## Screenshots
 
-Screenshots of the application are available in the `ScreenShots/` folder.
+### Loading Bar
+![Loading Bar](ScreenShots/Loading%20Bar.png)
+
+### Login Menu
+![Login Menu](ScreenShots/Login%20Menu.png)
+
+### Login Menu (Alternative)
+![Login Menu Alternative](ScreenShots/LoginMenu.png)
+
+### Main Menu
+![Main Menu](ScreenShots/Main%20Menu.png)
+
+### Prompt
+![Prompt](ScreenShots/Prompt.png)
 
 ## Project Structure
 
