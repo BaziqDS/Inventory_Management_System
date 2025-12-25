@@ -1,5 +1,9 @@
 # Inventory Management System
 
+## Project Timeline
+- 📅 **Originally developed and completed:** January 2023 (Course Project, NED University)
+- 📤 **Uploaded to GitHub:** December 2025
+
 ## Description
 
 This is a console-based Inventory Management System developed in C as part of a course project at NED University. The application allows users to manage product inventory through a simple command-line interface, including features for user authentication, adding, removing, displaying, searching, and modifying products.
